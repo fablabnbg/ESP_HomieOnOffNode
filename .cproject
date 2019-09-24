@@ -23,45 +23,53 @@
 							<tool id="org.eclipse.cdt.build.core.settings.holder.libs.1409095472" name="holder for library settings" superClass="org.eclipse.cdt.build.core.settings.holder.libs"/>
 							<tool id="org.eclipse.cdt.build.core.settings.holder.1624502120" name="Assembly" superClass="org.eclipse.cdt.build.core.settings.holder">
 								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.239157887" name="Include Paths" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
-									<listOptionValue builtIn="false" value="${HOME}/Fablab/git/Automatisierung/nodes/ESP_HomieOnOffNode/include"/>
-									<listOptionValue builtIn="false" value="${HOME}/Fablab/git/Automatisierung/nodes/ESP_HomieOnOffNode/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/include"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/HomieLoggerNode/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/Homie/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPClient/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/DNSServer/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Ticker"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/ESP Async WebServer_ID306/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Hash/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/Bounce2_ID1106/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/AsyncMqttClient_ID346/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/ESPAsyncTCP_ID305/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/ArduinoJson_ID64/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SPI"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/tools/sdk/libc/xtensa-lx106-elf/include"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/cores/esp8266"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/tools/sdk/lwip2/include"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/variants/nodemcu"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/Homie_ID555/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ArduinoOTA"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/DNSServer/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/EEPROM"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266AVRISP/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPClient/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPUpdateServer/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266LLMNR"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266NetBIOS"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266SSDP"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266SdFat/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WebServer/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFiMesh/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266httpUpdate/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Ethernet/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/GDBStub/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Hash/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SD/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SDFS/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SPI"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SPISlave/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Servo/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SoftwareSerial/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/TFT_Touch_Shield_V2"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Ticker"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Wire"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/esp8266/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/tool-unity"/>
 								</option>
 								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.922107295" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
-									<listOptionValue builtIn="false" value="PLATFORMIO=40000"/>
+									<listOptionValue builtIn="false" value="PLATFORMIO=40003"/>
 									<listOptionValue builtIn="false" value="ESP8266"/>
 									<listOptionValue builtIn="false" value="ARDUINO_ARCH_ESP8266"/>
 									<listOptionValue builtIn="false" value="ARDUINO_ESP8266_ESP07"/>
@@ -82,45 +90,53 @@
 							</tool>
 							<tool id="org.eclipse.cdt.build.core.settings.holder.54121539" name="GNU C++" superClass="org.eclipse.cdt.build.core.settings.holder">
 								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.1096940598" name="Include Paths" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
-									<listOptionValue builtIn="false" value="${HOME}/Fablab/git/Automatisierung/nodes/ESP_HomieOnOffNode/include"/>
-									<listOptionValue builtIn="false" value="${HOME}/Fablab/git/Automatisierung/nodes/ESP_HomieOnOffNode/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/include"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/HomieLoggerNode/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/Homie/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPClient/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/DNSServer/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Ticker"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/ESP Async WebServer_ID306/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Hash/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/Bounce2_ID1106/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/AsyncMqttClient_ID346/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/ESPAsyncTCP_ID305/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/ArduinoJson_ID64/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SPI"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/tools/sdk/libc/xtensa-lx106-elf/include"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/cores/esp8266"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/tools/sdk/lwip2/include"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/variants/nodemcu"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/Homie_ID555/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ArduinoOTA"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/DNSServer/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/EEPROM"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266AVRISP/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPClient/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPUpdateServer/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266LLMNR"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266NetBIOS"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266SSDP"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266SdFat/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WebServer/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFiMesh/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266httpUpdate/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Ethernet/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/GDBStub/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Hash/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SD/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SDFS/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SPI"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SPISlave/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Servo/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SoftwareSerial/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/TFT_Touch_Shield_V2"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Ticker"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Wire"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/esp8266/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/tool-unity"/>
 								</option>
 								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.1198905600" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
-									<listOptionValue builtIn="false" value="PLATFORMIO=40000"/>
+									<listOptionValue builtIn="false" value="PLATFORMIO=40003"/>
 									<listOptionValue builtIn="false" value="ESP8266"/>
 									<listOptionValue builtIn="false" value="ARDUINO_ARCH_ESP8266"/>
 									<listOptionValue builtIn="false" value="ARDUINO_ESP8266_ESP07"/>
@@ -141,45 +157,53 @@
 							</tool>
 							<tool id="org.eclipse.cdt.build.core.settings.holder.1310559623" name="GNU C" superClass="org.eclipse.cdt.build.core.settings.holder">
 								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.41298875" name="Include Paths" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
-									<listOptionValue builtIn="false" value="${HOME}/Fablab/git/Automatisierung/nodes/ESP_HomieOnOffNode/include"/>
-									<listOptionValue builtIn="false" value="${HOME}/Fablab/git/Automatisierung/nodes/ESP_HomieOnOffNode/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/include"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/HomieLoggerNode/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/Homie/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPClient/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/DNSServer/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Ticker"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/ESP Async WebServer_ID306/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Hash/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/Bounce2_ID1106/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/AsyncMqttClient_ID346/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/ESPAsyncTCP_ID305/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/ArduinoJson_ID64/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SPI"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/tools/sdk/libc/xtensa-lx106-elf/include"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/cores/esp8266"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/tools/sdk/lwip2/include"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/variants/nodemcu"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/Homie_ID555/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ArduinoOTA"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/DNSServer/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/EEPROM"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266AVRISP/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPClient/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPUpdateServer/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266LLMNR"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266NetBIOS"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266SSDP"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266SdFat/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WebServer/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFiMesh/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266httpUpdate/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Ethernet/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/GDBStub/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Hash/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SD/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SDFS/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SPI"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SPISlave/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Servo/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SoftwareSerial/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/TFT_Touch_Shield_V2"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Ticker"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Wire"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/esp8266/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/tool-unity"/>
 								</option>
 								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.884639970" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
-									<listOptionValue builtIn="false" value="PLATFORMIO=40000"/>
+									<listOptionValue builtIn="false" value="PLATFORMIO=40003"/>
 									<listOptionValue builtIn="false" value="ESP8266"/>
 									<listOptionValue builtIn="false" value="ARDUINO_ARCH_ESP8266"/>
 									<listOptionValue builtIn="false" value="ARDUINO_ESP8266_ESP07"/>
@@ -226,45 +250,53 @@
 							<tool id="org.eclipse.cdt.build.core.settings.holder.libs.1855678035" name="holder for library settings" superClass="org.eclipse.cdt.build.core.settings.holder.libs"/>
 							<tool id="org.eclipse.cdt.build.core.settings.holder.30528994" name="Assembly" superClass="org.eclipse.cdt.build.core.settings.holder">
 								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.794801023" name="Include Paths" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
-									<listOptionValue builtIn="false" value="${HOME}/Fablab/git/Automatisierung/nodes/ESP_HomieOnOffNode/include"/>
-									<listOptionValue builtIn="false" value="${HOME}/Fablab/git/Automatisierung/nodes/ESP_HomieOnOffNode/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/include"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/HomieLoggerNode/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/Homie/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPClient/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/DNSServer/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Ticker"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/ESP Async WebServer_ID306/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Hash/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/Bounce2_ID1106/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/AsyncMqttClient_ID346/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/ESPAsyncTCP_ID305/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/ArduinoJson_ID64/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SPI"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/tools/sdk/libc/xtensa-lx106-elf/include"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/cores/esp8266"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/tools/sdk/lwip2/include"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/variants/nodemcu"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/Homie_ID555/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ArduinoOTA"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/DNSServer/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/EEPROM"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266AVRISP/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPClient/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPUpdateServer/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266LLMNR"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266NetBIOS"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266SSDP"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266SdFat/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WebServer/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFiMesh/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266httpUpdate/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Ethernet/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/GDBStub/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Hash/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SD/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SDFS/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SPI"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SPISlave/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Servo/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SoftwareSerial/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/TFT_Touch_Shield_V2"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Ticker"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Wire"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/esp8266/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/tool-unity"/>
 								</option>
 								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.1743427839" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
-									<listOptionValue builtIn="false" value="PLATFORMIO=40000"/>
+									<listOptionValue builtIn="false" value="PLATFORMIO=40003"/>
 									<listOptionValue builtIn="false" value="ESP8266"/>
 									<listOptionValue builtIn="false" value="ARDUINO_ARCH_ESP8266"/>
 									<listOptionValue builtIn="false" value="ARDUINO_ESP8266_ESP07"/>
@@ -285,45 +317,53 @@
 							</tool>
 							<tool id="org.eclipse.cdt.build.core.settings.holder.1146422798" name="GNU C++" superClass="org.eclipse.cdt.build.core.settings.holder">
 								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.650084869" name="Include Paths" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" useByScannerDiscovery="false" valueType="includePath">
-									<listOptionValue builtIn="false" value="${HOME}/Fablab/git/Automatisierung/nodes/ESP_HomieOnOffNode/include"/>
-									<listOptionValue builtIn="false" value="${HOME}/Fablab/git/Automatisierung/nodes/ESP_HomieOnOffNode/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/include"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/HomieLoggerNode/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/Homie/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPClient/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/DNSServer/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Ticker"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/ESP Async WebServer_ID306/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Hash/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/Bounce2_ID1106/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/AsyncMqttClient_ID346/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/ESPAsyncTCP_ID305/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/ArduinoJson_ID64/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SPI"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/tools/sdk/libc/xtensa-lx106-elf/include"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/cores/esp8266"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/tools/sdk/lwip2/include"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/variants/nodemcu"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/Homie_ID555/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ArduinoOTA"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/DNSServer/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/EEPROM"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266AVRISP/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPClient/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPUpdateServer/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266LLMNR"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266NetBIOS"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266SSDP"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266SdFat/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WebServer/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFiMesh/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266httpUpdate/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Ethernet/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/GDBStub/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Hash/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SD/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SDFS/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SPI"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SPISlave/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Servo/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SoftwareSerial/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/TFT_Touch_Shield_V2"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Ticker"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Wire"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/esp8266/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/tool-unity"/>
 								</option>
 								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.2055633423" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" useByScannerDiscovery="false" valueType="definedSymbols">
-									<listOptionValue builtIn="false" value="PLATFORMIO=40000"/>
+									<listOptionValue builtIn="false" value="PLATFORMIO=40003"/>
 									<listOptionValue builtIn="false" value="ESP8266"/>
 									<listOptionValue builtIn="false" value="ARDUINO_ARCH_ESP8266"/>
 									<listOptionValue builtIn="false" value="ARDUINO_ESP8266_ESP07"/>
@@ -344,45 +384,53 @@
 							</tool>
 							<tool id="org.eclipse.cdt.build.core.settings.holder.1637357529" name="GNU C" superClass="org.eclipse.cdt.build.core.settings.holder">
 								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.1246337321" name="Include Paths" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" useByScannerDiscovery="false" valueType="includePath">
-									<listOptionValue builtIn="false" value="${HOME}/Fablab/git/Automatisierung/nodes/ESP_HomieOnOffNode/include"/>
-									<listOptionValue builtIn="false" value="${HOME}/Fablab/git/Automatisierung/nodes/ESP_HomieOnOffNode/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/include"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/HomieLoggerNode/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/Homie/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPClient/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/DNSServer/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Ticker"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/ESP Async WebServer_ID306/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Hash/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/Bounce2_ID1106/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/AsyncMqttClient_ID346/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/ESPAsyncTCP_ID305/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/ArduinoJson_ID64/src"/>
+									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SPI"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/tools/sdk/libc/xtensa-lx106-elf/include"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/cores/esp8266"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/tools/sdk/lwip2/include"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/variants/nodemcu"/>
+									<listOptionValue builtIn="false" value="${HOME}/Fablab/git-repos/ESP_HomieOnOffNode/.pio/libdeps/esp07/Homie_ID555/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ArduinoOTA"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/DNSServer/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/EEPROM"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266AVRISP/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPClient/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPUpdateServer/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266LLMNR"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266NetBIOS"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266SSDP"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266SdFat/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WebServer/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFiMesh/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266httpUpdate/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Ethernet/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/GDBStub/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Hash/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SD/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SDFS/src"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SPI"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SPISlave/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Servo/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/SoftwareSerial/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/TFT_Touch_Shield_V2"/>
-									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Ticker"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/Wire"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/framework-arduinoespressif8266/libraries/esp8266/src"/>
 									<listOptionValue builtIn="false" value="${HOME}/.platformio/packages/tool-unity"/>
 								</option>
 								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.2122043341" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" useByScannerDiscovery="false" valueType="definedSymbols">
-									<listOptionValue builtIn="false" value="PLATFORMIO=40000"/>
+									<listOptionValue builtIn="false" value="PLATFORMIO=40003"/>
 									<listOptionValue builtIn="false" value="ESP8266"/>
 									<listOptionValue builtIn="false" value="ARDUINO_ARCH_ESP8266"/>
 									<listOptionValue builtIn="false" value="ARDUINO_ESP8266_ESP07"/>
