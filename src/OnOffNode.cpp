@@ -20,7 +20,7 @@ bool OnOffNode::handleInput(const HomieRange& range, const String& property, con
 	LN.logf(__PRETTY_FUNCTION__, LoggerNode::DEBUG, "Received input for property %s, value %s", property.c_str(), value.c_str());
 	if (property.equalsIgnoreCase("state")) {
 		bool cmd = value.equalsIgnoreCase("ON");
-		pinMode(pin, invert ^ cmd);
+		digitalWrite(pin, invert ^ cmd);
 		setProperty("state").setRetained(true).send(String(cmd?"ON":"OFF"));
 		return true;
 	}
