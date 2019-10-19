@@ -23,14 +23,14 @@ LoggerNode LN;
  *
  */
 //TODO: Read names from config
-OnOffNode heater1("heater1", "Heizung 1", 0, true);	//Q1: LED W1
-OnOffNode heater2("heater2", "Heizung 2", 2, true);	//Q2: LED W2
-OnOffNode heater3("heater3", "Heizung 3", 15, true);	//Q3: LED RGB2
-OnOffNode heater4("heater4", "Heizung 4", 14, true);  //Q4: LED RGB3
+OnOffNode heater1("heater1", "Heizung 1", 0);	//Q1: LED W1
+OnOffNode heater2("heater2", "Heizung 2", 2);	//Q2: LED W2
+OnOffNode heater3("heater3", "Heizung 3", 15);	//Q3: LED RGB2
+OnOffNode heater4("heater4", "Heizung 4", 14);  //Q4: LED RGB3
 //							              16	//Q5: LED RGB4
 
 #define FW_NAME "fln-heat_4x"
-#define FW_VERSION "1.0.0"
+#define FW_VERSION "1.0.1"
 
 void setup() {
 	//74880 is quite unusual, but it is the Baud-Rate of the ESP8266 boot loader. So by using 74880 as baudrate, you can see boot loader messages and your messages.
