@@ -30,7 +30,7 @@ OnOffNode heater4("heater4", "Heizung 4", 14);  //Q4: LED RGB3
 //							              16	//Q5: LED RGB4
 
 #define FW_NAME "fln-heat_4x"
-#define FW_VERSION "1.0.1"
+#define FW_VERSION "1.0.2"
 
 void setup() {
 	//74880 is quite unusual, but it is the Baud-Rate of the ESP8266 boot loader. So by using 74880 as baudrate, you can see boot loader messages and your messages.

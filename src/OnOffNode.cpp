@@ -33,6 +33,6 @@ void OnOffNode::setup() {
 }
 
 void OnOffNode::onReadyToOperate() {
-	setProperty("state").setRetained(true).send(String("OFF"));
+	setProperty("state").setRetained(true).send(String(digitalRead(pin)^invert ? "ON":"OFF"));
 }
 
